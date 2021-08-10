@@ -11,6 +11,7 @@ let package = Package(
         .library(
             name: "testFramework",
             targets: ["testFramework"]),
+        //.executable(name: "testFramework", targets:  ["testFramework"])
     ],
     dependencies: [
         // Dependencies declare other packages that this package depends on.
