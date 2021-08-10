@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name             = 'testFramework'
-  s.version          = '0.1.0'
-  s.summary          = 'A short description of testFramework.'
+  s.version          = '0.1.1'
+  s.summary          = 'this is test framework, trying to upload first build with intial setup'
   s.homepage         = 'https://github.com/AniRut907/testFramework'
   s.license          = { :type => 'MIT', :file => 'LICENSE.md' }
   s.author           = { 'Quick Bird' => 'mascot@quickbirdstudios.com' }
