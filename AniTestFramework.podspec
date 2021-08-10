@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name             = 'testFramework'
+  s.name             = 'AniTestFramework'
   s.version          = '0.1.1'
   s.summary          = 'this is test framework, trying to upload first build with intial setup'
   s.homepage         = 'https://github.com/AniRut907/testFramework'
